@@ -1,7 +1,7 @@
 package com.bus_app.backend.repository;
 
 
-import com.bus_app.backend.Entity.Seat;
+import com.bus_app.backend.model.Seat;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
