@@ -1,4 +1,4 @@
-package com.bus_app.backend.Entity;
+package com.bus_app.backend.model;
 
 import jakarta.persistence.*;
 import lombok.*;
